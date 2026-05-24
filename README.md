@@ -17,3 +17,4 @@ Le projet est structuré de la manière suivante :
 Nous avons réalisé une vidéo complète montrant le fonctionnement du site, la navigation entre les pages, ainsi que les opérations en action.
 
 👉 [**Cliquez ici pour visionner la vidéo de démonstration sur Google Drive**](https://drive.google.com/file/d/1HxoFJRzIEwxd9Y9Aw8J_dC7LnuL683C1/view?usp=sharing)
+ **Note importante pour la lecture de la vidéo : Pour éviter le flou automatique au démarrage de Google Drive, veuillez cliquer sur la petite roue crantée Paramètres ⚙️ en bas à droite du lecteur vidéo, aller dans Qualité*, et sélectionner **720p**. Vous pouvez également télécharger directement la vidéo pour la visionner en haute définition parfaite sur votre ordinateur.
