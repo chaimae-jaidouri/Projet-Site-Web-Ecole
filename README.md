@@ -1,6 +1,6 @@
 # Projet Site Web École - Rihab el Marjane
 
-Bonjour Madame,
+Bonjour ,
 
 Voici le dépôt GitHub contenant l'intégralité du code source et l'architecture de notre application web.
 
